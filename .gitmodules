@@ -1,0 +1,3 @@
+[submodule "github_explorer"]
+	path = github_explorer
+	url = git@github.com:nvFede/github_explorer.git
